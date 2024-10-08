@@ -1,0 +1,1 @@
+circom /mnt/sdd1/sbw/circom/ZKAP_docker/zkbugs/dataset/circom/maci/initial_conditionsa_are_not_properly_enforced/circuits/circuit.circom -l /mnt/sdd1/sbw/circom/ZKAP_docker/zkbugs/dataset/circom/dependencies/circomlib/circuits -l /mnt/sdd1/sbw/circom/ZKAP_docker/zkbugs/dataset/circom/dependencies/@zk-kit/circuits/circom/
